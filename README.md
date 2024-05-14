@@ -22,5 +22,5 @@ Ce projet se déroulera en plusieurs étapes clés :
 ### 3. Évaluation des Modèles : Test et évaluation des performances des modèles sur un jeu de données de test.
 
 # Remerciement
-Cet ensemble de données est extrait du site officiel des [NIH]("https://ceb.nlm.nih.gov/repositories/malaria-datasets/"). 
+Cet ensemble de données est extrait du site officiel des ![NIH]("https://ceb.nlm.nih.gov/repositories/malaria-datasets/"). 
 
